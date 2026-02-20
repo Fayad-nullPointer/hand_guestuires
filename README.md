@@ -22,6 +22,21 @@ This project focuses on **hand gesture recognition** using machine learning and 
 - **Decision Tree**
 - **XGBoost**
 - **Stacking Classifier** (ensemble of SVM, Random Forest, XGBoost with Logistic Regression as meta-learner)
+## Model Comparison
+
+| Model                | Validation Accuracy | Test Accuracy | F1 Score (Val) | F1 Score (Test) | Notes                        |
+|----------------------|--------------------|---------------|----------------|-----------------|------------------------------|
+| Logistic Regression  | 0.76             | ---         | 0.76          | 0.79            | Baseline, fast training      |
+| Random Forest        | 0.97               | 0.96          | 0.97           | 0.97            | Robust to outliers           |
+| SVM                  | 0.94               | 0.94          | 0.94           | 0.94            | Sensitive to scaling         |
+| Decision Tree        | 0.93               | 0.93          | 0.93           | 0.93            | Simple, interpretable        |
+| XGBoost              | 0.97              | 0.90          | 0.97           | 0.90            | Powerful, needs tuning       |
+| Stacking Classifier  | 0.98              | 0.98          | 0.98           | 0.98            | Best overall performance     |
+
+
+---
+
+This table summarizes the performance of all models tried, highlighting the strengths of each and showing that the **Stacking Classifier** achieved the best overall results. 
 
 ---
 
