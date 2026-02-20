@@ -31,7 +31,7 @@ This project focuses on **hand gesture recognition** using machine learning and 
 | SVM                  | 0.94               | 0.94          | 0.94           | 0.94            | Sensitive to scaling         |
 | Decision Tree        | 0.93               | 0.93          | 0.93           | 0.93            | Simple, interpretable        |
 | XGBoost              | 0.97              | 0.90          | 0.97           | 0.90            | Powerful, needs tuning       |
-| Stacking Classifier  | 0.98              | 0.98          | 0.98           | 0.98            | Best overall performance     |
+| Stacking Classifier  | 0.98              | 0.98          | 0.98           | 0.97            | Best overall performance     |
 
 
 ---
