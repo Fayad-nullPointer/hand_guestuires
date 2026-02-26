@@ -13,11 +13,7 @@ A real-time hand gesture recognition system that detects **18 distinct hand gest
 
 ## 🎯 Recognized Gestures
 
-| | | | | | |
-|---|---|---|---|---|---|
-| ☎️ call | 👎 dislike | ✊ fist | 🖐️ four | 👍 like | 🤫 mute |
-| 👌 ok | ☝️ one | 🖐️ palm | ✌️ peace | ✌️ peace inv. | 🤘 rock |
-| 🛑 stop | 🛑 stop inv. | 🤟 three | 🤟 three2 | ✌️ two up | ✌️ two up inv. |
+![Recognized Gestures](Screenshots/Screenshot%20from%202026-02-27%2000-05-19.png)
 
 ---
 
@@ -49,6 +45,8 @@ Input Image / Video
 ```
 
 ### Landmark Scaling
+
+![Hand Landmarks](Screenshots/Screenshot%20from%202026-02-27%2000-05-49.png)
 
 Raw MediaPipe x/y coordinates are normalized to be **position- and scale-invariant**:
 
