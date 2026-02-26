@@ -1,0 +1,5 @@
+mlruns/
+.venv/
+*.mp4
+*.task
+*.task.1
