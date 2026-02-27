@@ -1,0 +1,1 @@
+[('scaler', MinMaxScaler()), ('classifier', SVC(C=150, probability=True))]

@@ -1,0 +1,16 @@
+creation_timestamp: 1771407576763
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1771407576763
+model_id: m-65e5677e605e43918d7d39d4e2491264
+name: Hand_Gustuiers_Stackign_Classifier
+run_id: b3bc3290f1e249449fe626c8d97a2381
+run_link: ''
+source: models:/m-65e5677e605e43918d7d39d4e2491264
+status: READY
+status_message: null
+storage_location: file:///home/ahmed-fayad/ITI-9m-AI&ML_Work_Foledr_inshallah/ML1/Final
+  Project/mlruns/513834568510053244/models/m-65e5677e605e43918d7d39d4e2491264/artifacts
+user_id: null
+version: 1

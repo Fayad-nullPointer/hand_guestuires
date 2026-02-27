@@ -1,0 +1,24 @@
+artifact_path: file:///home/ahmed-fayad/ITI-9m-AI&ML_Work_Foledr_inshallah/ML1/Final
+  Project/mlruns/513834568510053244/models/m-0a2f366783a84a9e9ca5c312aa8804f5/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+    skops_trusted_types: null
+mlflow_version: 3.9.0
+model_id: m-0a2f366783a84a9e9ca5c312aa8804f5
+model_size_bytes: 3426673
+model_uuid: m-0a2f366783a84a9e9ca5c312aa8804f5
+prompts: null
+run_id: 25a411925e024eb7a879e3b8f01ddd77
+utc_time_created: '2026-02-11 15:02:05.640758'

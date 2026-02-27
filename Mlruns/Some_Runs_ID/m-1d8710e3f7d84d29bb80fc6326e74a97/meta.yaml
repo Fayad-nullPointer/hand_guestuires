@@ -1,0 +1,11 @@
+artifact_location: file:///home/ahmed-fayad/ITI-9m-AI&ML_Work_Foledr_inshallah/ML1/Final
+  Project/mlruns/513834568510053244/models/m-1d8710e3f7d84d29bb80fc6326e74a97/artifacts
+creation_timestamp: 1770799471754
+experiment_id: '513834568510053244'
+last_updated_timestamp: 1770799482367
+model_id: m-1d8710e3f7d84d29bb80fc6326e74a97
+model_type: null
+name: model
+source_run_id: 3baa50800cdc4aae82d44b3d9c82b5f9
+status: 2
+status_message: null

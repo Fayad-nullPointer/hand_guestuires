@@ -1,0 +1,8 @@
+aliases: {}
+creation_timestamp: 1771407576230
+deployment_job_id: null
+deployment_job_state: null
+description: 'This model achieve 98 f1_score so this consider the best model to use
+  at production '
+last_updated_timestamp: 1771407831652
+name: Hand_Gustuiers_Stackign_Classifier
