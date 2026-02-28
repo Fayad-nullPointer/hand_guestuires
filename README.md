@@ -184,6 +184,7 @@ process_video(
 ## 📈 MLflow Experiment Tracking
 
 All runs are tracked locally under `mlruns/`. To view the dashboard:
+> **Note:** Not all MLflow runs are included in this repository due to file size constraints. Only a subset of experiment logs is committed to Git.
 
 ```bash
 mlflow ui
